@@ -33,7 +33,7 @@ const HomePage = () => {
         background: "linear-gradient(135deg, #1e1e2f, #2a2d3e)",
         overflow: "hidden",
         color: "white",
-        paddingTop: "20vh",
+        padding:"20vh 20px 20px 20px"
       }}
     >
       <motion.div initial={{ opacity: 0, y: -50 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 1 }}>
