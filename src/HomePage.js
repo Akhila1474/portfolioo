@@ -26,7 +26,6 @@ const HomePage = () => {
       sx={{
         position: "relative",
         minHeight: "90vh",
-        width: "100vw",
         display: "flex",
         flexDirection: "column",
         alignItems: "center",
